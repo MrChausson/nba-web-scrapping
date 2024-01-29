@@ -1,5 +1,11 @@
 # Web Scraping Workshop
 
+# Made by
+
+## Clement Chausson
+## Clement De Laage De Meux
+## Grégoire Biendiné
+
 ---
 
 ## Introduction
